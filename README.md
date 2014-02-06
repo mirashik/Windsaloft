@@ -1,7 +1,4 @@
-Windsaloft
-
-Open-source Hardware Projects
-Arduino compatible development board for students and researchers:
+# Arduino compatible development board for students and researchers:
 
 Features:
 
